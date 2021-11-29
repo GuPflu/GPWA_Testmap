@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.5" tiledversion="1.7.2" name="Grassland-MainLev2.0" tilewidth="32" tileheight="32" tilecount="2816" columns="64">
+ <image source="../../workadventure/RPG-TileSets/RPGW_GrassLand_v2.01/MainLev2.0.png" width="2048" height="1408"/>
+</tileset>
